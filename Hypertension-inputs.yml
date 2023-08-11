@@ -1,0 +1,27 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/hypertension---primary.py
+inputModule3:
+  class: File
+  path: python/hypertensive-hypertension---primary.py
+inputModule4:
+  class: File
+  path: python/essential-hypertension---primary.py
+inputModule5:
+  class: File
+  path: python/hypertension-malignant---primary.py
+inputModule6:
+  class: File
+  path: python/hypertension-benign---primary.py
+inputModule7:
+  class: File
+  path: python/secondary-hypertension---primary.py
+inputModule8:
+  class: File
+  path: python/renovascular-hypertension---primary.py
+inputModule9:
+  class: File
+  path: python/output-cases.py
